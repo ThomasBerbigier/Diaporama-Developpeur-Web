@@ -29,8 +29,8 @@ Avec cette présentation et ces documents, **j'ai validé mon diplôme**, après
 ## ⭐ Soutiens-moi en laissant une étoile !  
 
 Si tu trouves ce projet et ces ressources utiles, **n’hésite pas à laisser une ⭐ étoile** sur :  
-- [Ce dépôt](https://github.com/ThomasBerbigier/ECF-ZOO-ARCADIA) *(projet complet)*  
-- [Le dépôt de cette présentation](https://github.com/ThomasBerbigier) *(pour mes documents et diaporama)*  
+- [Le dépot du code source](https://github.com/ThomasBerbigier/ECF-ZOO-ARCADIA) *(projet complet)*  
+- [Le dépôt de cette présentation](https://github.com/ThomasBerbigier/Diaporama-Developpeur-Web) *(pour mes dossiers et diaporama)*  
 
 💡 Cela m’aidera à partager mon travail avec d’autres apprenants et à le rendre plus visible. Merci ! 🙌  
 
