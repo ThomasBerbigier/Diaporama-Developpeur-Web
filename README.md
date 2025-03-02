@@ -1,6 +1,6 @@
 # 🎓 Présentation & Dossiers - Développeur Web et Web Mobile  
 
-Bienvenue sur ce dépôt où je partage **mon diaporama, mon dossier professionnel et mon dossier de projet** réalisés dans le cadre de mon examen de **Développeur Web et Web Mobile (RNCP Niveau 5)** suivi chez **STUDI**.  
+Bienvenue sur ce dépôt où je partage **mon diaporama, mon dossier professionnel et mon dossier de projet (ECF)** réalisés dans le cadre de mon examen de **Développeur Web et Web Mobile (RNCP Niveau 5)** suivi chez **STUDI**.  
 
 Avec cette présentation et ces documents, **j'ai validé mon diplôme**, après avoir passé **environ 200 heures** sur le développement de l'application. 🚀  
 
